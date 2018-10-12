@@ -1,6 +1,6 @@
 package com.anor.petclinic.model;
 
-public class Person {
+public class Person extends BaseEntity{
 
     public String getFirstName() {
         return firstName;
