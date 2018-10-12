@@ -4,7 +4,7 @@
 
     <groupId>com.anor</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -46,6 +46,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:orszulakana/pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>pet-clinic-0.0.2</tag>
     </scm>
 </project>
